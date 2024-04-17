@@ -1,4 +1,4 @@
-### Hi there 👋
+### 행복하자
 
 <!--
 **purple-eye-orange/purple-eye-orange** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
