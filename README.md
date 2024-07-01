@@ -10,6 +10,7 @@
 
 
 # Project
-- 대학생 과외 서비스
-  - 
+- 대학생 과외 서비스(React, tailwindcss)
+  - 깃허브: https://github.com/FORIF-REACT/Stick
+  - 디자인: https://www.figma.com/proto/SFq5vPjLsBWEAttTRE2IHZ/Unitto?node-id=1669-162202&t=pqX3QrZNoOZ1y9ag-1
 
