@@ -15,4 +15,4 @@
 
 
 # tech blog
-https://velog.io/@12sh20/posts
+https://velog.io/@12sh20
