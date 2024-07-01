@@ -13,3 +13,6 @@
   - 깃허브: https://github.com/FORIF-REACT/Stick
   - 디자인: https://www.figma.com/design/SFq5vPjLsBWEAttTRE2IHZ/Unitto?node-id=1669-162202&t=G3ZK2ExDmyv831bN-1
 
+
+# tech blog
+https://velog.io/@12sh20/posts
