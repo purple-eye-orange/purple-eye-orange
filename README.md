@@ -12,5 +12,5 @@
 # Project
 - 대학생 과외 서비스(React, tailwindcss)
   - 깃허브: https://github.com/FORIF-REACT/Stick
-  - 디자인: https://www.figma.com/design/SFq5vPjLsBWEAttTRE2IHZ/Unitto?m=dev&node-id=1669-162202&t=pqX3QrZNoOZ1y9ag-1
+  - 디자인: https://www.figma.com/design/SFq5vPjLsBWEAttTRE2IHZ/Unitto?node-id=1669-162202&t=G3ZK2ExDmyv831bN-1
 
