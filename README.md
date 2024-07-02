@@ -10,7 +10,7 @@
 
 
 # Studying
-<img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">  <img src="https://img.shields.io/badge/webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=white">  <img src="https://img.shields.io/badge/vite-646CFF?style=for-the-badge&logo=vite&logoColor=white">
+<img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">  
 
 # 공부 예정
 <img src="https://img.shields.io/badge/node.js-5FA04E?style=for-the badge&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/mongodb-47A248?style=for-the badge&logo=mongodb&logoColor=white"> 
