@@ -11,14 +11,8 @@
 # Studying
 <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">  
 
-# 공부 예정
-<img src="https://img.shields.io/badge/node.js-5FA04E?style=for-the badge&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/mongodb-47A248?style=for-the badge&logo=mongodb&logoColor=white"> 
-
 
 # Project
-- 대학생 과외 서비스(React, tailwindcss)
-  - 깃허브: https://github.com/FORIF-REACT/Stick
-  - 디자인: https://www.figma.com/design/SFq5vPjLsBWEAttTRE2IHZ/Unitto?node-id=1669-162202&t=G3ZK2ExDmyv831bN-1
 
 
 # tech blog
