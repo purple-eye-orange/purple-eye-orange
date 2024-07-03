@@ -12,9 +12,6 @@
 <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">  
 
 
-# Project
-
-
 # tech blog
 https://velog.io/@12sh20
 
