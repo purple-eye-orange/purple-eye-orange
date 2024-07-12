@@ -16,5 +16,6 @@
 # tech blog
 https://velog.io/@12sh20
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=purple-eye-orange&show_icons=true&theme=radical)
 
 
