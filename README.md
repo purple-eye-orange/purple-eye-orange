@@ -1,7 +1,9 @@
 # Education
 ```
+<div align="center">
 2021.03 ~ 한양대학교 유기나노공학과
 2023.09 ~ 2024.08 휴학
+</div>
 ```
 
 # Skill
