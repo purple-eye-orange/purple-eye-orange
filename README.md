@@ -1,10 +1,10 @@
-# Education
-```
 <div align="center">
+# Education
+``` 
 2021.03 ~ 한양대학교 유기나노공학과
 2023.09 ~ 2024.08 휴학
-</div>
 ```
+</div>
 
 # Skill
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the badge&logo=HTML5&logoColor=white">  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">  
